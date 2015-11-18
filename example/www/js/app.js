@@ -7,7 +7,6 @@ angular.module('starter', ['ionic', 'ionic.wheel'])
   $scope.circlesHidden = true;
 
   $scope.showCircles= function() {
-    console.log('in')
     var $circles = angular.element(circles);
     if ($scope.circlesHidden) {
       $circles.addClass('active');
