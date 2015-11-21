@@ -14,6 +14,12 @@ Here's a quick [Blog Post](http://www.ionicbundle.com/ionic-wheel/)
 
 ## Usage
 
+Get the package from bower.
+
+```
+$ bower install ionic-wheel
+```
+
 Just include ```ionic.wheel.css``` and ```ionic.wheel.js``` to your app and remember to include the ```ionic.wheel``` module as a dependency.
 
 ```js
