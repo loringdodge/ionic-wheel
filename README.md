@@ -10,7 +10,7 @@ Here's the [Codepen Demo](http://codepen.io/loringdodge/pen/JYxByX)
 
 Here's a quick [Blog Post](http://www.ionicbundle.com/ionic-wheel/)
 
-![Screenshot](screenshots/iphone.png)
+![Screenshot](screenshots/IonicWheel1.gif)
 
 ## Usage
 
